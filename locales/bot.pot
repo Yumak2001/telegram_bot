@@ -1,0 +1,42 @@
+# Translations template for telegram_bot.
+# Copyright (C) 2021 Illemius
+# This file is distributed under the same license as the telegram_bot project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: telegram_bot 0.1\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-06-06 00:59+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: app/handlers/commands.py:19
+msgid "Старт"
+msgstr ""
+
+#: app/handlers/commands.py:23
+msgid "Справка"
+msgstr ""
+
+#: app/handlers/commands.py:36
+msgid "Привет {user}\\!"
+msgstr ""
+
+#: app/handlers/commands.py:49
+msgid "Это /help, есть команда /start"
+msgstr ""
+
+#: app/handlers/media.py:15
+msgid "Это ответ на документ {fileName}"
+msgstr ""
+
+#: app/handlers/media.py:23
+msgid "Это ответ на фото"
+msgstr ""
+
